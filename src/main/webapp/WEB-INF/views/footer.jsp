@@ -1,0 +1,4 @@
+</main>
+<script src="${pageContext.request.contextPath}/js/app.js"></script>
+</body>
+</html>
