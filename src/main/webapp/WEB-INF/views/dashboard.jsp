@@ -56,8 +56,8 @@
 </div>
 
 <!-- Quick Actions -->
-<div style="background:white; border-radius:16px; padding:28px; box-shadow:0 2px 12px rgba(0,0,0,0.06);">
-    <h3 style="font-family:'Syne',sans-serif; color:#1F4E79; margin-bottom:18px; font-size:18px;">Quick Actions</h3>
+<div style="background:#1a1f2e; border-radius:16px; padding:28px; box-shadow:0 2px 12px rgba(0,0,0,0.06);">
+    <h3 style="font-family:'Syne',sans-serif; color:#ffffff; margin-bottom:18px; font-size:18px;">Quick Actions</h3>
     <div style="display:flex; gap:14px; flex-wrap:wrap;">
         <a href="${pageContext.request.contextPath}/employees/add"
            style="padding:10px 22px; background:#1F4E79; color:white; border-radius:8px;
