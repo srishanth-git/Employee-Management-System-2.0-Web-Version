@@ -61,7 +61,7 @@
         </div>
         <% } %>
         <a href="<%= ctx %>/auth/logout"
-           style="display:block; text-align:center; background:#e74c3c; color:white;
+           style="display:block; text-align:center; background:#1F4E79; color:white;
                   padding:8px 14px; border-radius:8px; text-decoration:none;
                   font-size:13px; font-weight:600; margin-bottom:10px;">
             🚪 Logout
